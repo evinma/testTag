@@ -20,9 +20,6 @@
   "release-it": {
     "git": {
       "tagName": "v${version}"
-    },
-    "github": {
-      "release": true
     }
   },
   "homepage": "https://github.com/evinma/testTag#readme",
