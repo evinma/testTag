@@ -1,0 +1,24 @@
+{
+  "name": "test-tag-plus",
+  "version": "1.0.0",
+  "description": "automation tag",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evinma/testTag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evinma/testTag/issues"
+  },
+  "homepage": "https://github.com/evinma/testTag#readme",
+  "dependencies": {
+    "release-it": "^10.2.0"
+  }
+}
