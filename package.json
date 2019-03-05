@@ -19,7 +19,8 @@
   },
   "release-it": {
     "git": {
-      "tagName": "v${version}"
+      "tagName": "v${version}",
+      "tag": true
     }
   },
   "homepage": "https://github.com/evinma/testTag#readme",
