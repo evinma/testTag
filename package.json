@@ -17,6 +17,9 @@
   "bugs": {
     "url": "https://github.com/evinma/testTag/issues"
   },
+  "git": {
+    "tagName": "v${version}"
+  },
   "homepage": "https://github.com/evinma/testTag#readme",
   "dependencies": {
     "release-it": "^10.2.0"
