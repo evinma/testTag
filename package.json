@@ -1,6 +1,6 @@
 {
   "name": "test-tag-plus",
-  "version": "2.1.0",
+  "version": "2.0.0",
   "description": "automation tag",
   "main": "test.js",
   "scripts": {
@@ -17,11 +17,13 @@
   "bugs": {
     "url": "https://github.com/evinma/testTag/issues"
   },
-  "git": {
-    "tagName": "v${version}"
-  },
-  "github": {
-    "release": true
+  "release-it": {
+    "git": {
+      "tagName": "v${version}"
+    },
+    "github": {
+      "release": true
+    }
   },
   "homepage": "https://github.com/evinma/testTag#readme",
   "dependencies": {
