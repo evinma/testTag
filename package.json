@@ -5,7 +5,8 @@
   "main": "test.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "publish": "release-it -n"
+    "publish": "release-it -n",
+    "deploy": "np"
   },
   "repository": {
     "type": "git",
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/evinma/testTag#readme",
   "dependencies": {
+    "np": "^4.0.2",
     "release-it": "^10.2.0"
   }
 }
