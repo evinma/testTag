@@ -1,6 +1,6 @@
 {
   "name": "test-tag-plus",
-  "version": "3.0.8",
+  "version": "3.0.9",
   "description": "automation tag",
   "main": "test.js",
   "scripts": {
