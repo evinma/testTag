@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "publish": "release-it -n",
-    "deploy": "np"
+    "deploy": "np --yolo"
   },
   "repository": {
     "type": "git",
